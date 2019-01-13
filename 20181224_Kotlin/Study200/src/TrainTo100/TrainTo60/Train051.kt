@@ -23,6 +23,3 @@ fun main(args: Array<String>) {
     b = a
     println(a === b)
 }
-
-
-
